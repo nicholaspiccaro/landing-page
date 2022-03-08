@@ -1,6 +1,9 @@
 # landing-page
 Odin landing project
 
+https://nicholaspiccaro.github.io/landing-page/
+
+
 Ideas:
 gen-z yelp for young people
     -modern color theme
